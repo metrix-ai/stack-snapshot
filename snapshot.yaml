@@ -14,5 +14,8 @@ packages:
 - potoki-0.7
 - potoki-cereal-0.1.3
 - potoki-core-1.3
+- ptr-0.16.2
 - rebase-1.2.3
 - rerebase-1.2.1
+- text-builder-0.5.1
+- vector-builder-0.3.4.1
