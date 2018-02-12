@@ -10,8 +10,6 @@ packages:
 - hasql-optparse-applicative-0.3
 - hasql-transaction-0.6
 - iri-0.3
-- network-transport-0.4.4.0
-- network-transport-tcp-0.5.1
 - optparse-applicative-simple-1.0.2
 - potoki-0.7
 - potoki-cereal-0.1.3
