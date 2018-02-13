@@ -5,6 +5,7 @@ packages:
 - attoparsec-time-1
 - bug-1.0.1
 - either-5
+- fast-tagsoup-1.0.14
 - foldl-1.3.7
 - hasql-1.1.1
 - hasql-optparse-applicative-0.3
