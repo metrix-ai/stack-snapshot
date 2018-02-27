@@ -20,5 +20,8 @@ packages:
 - punycode-2.0
 - rebase-1.2.3
 - rerebase-1.2.1
+- tasty-1.0.1
+- tasty-hunit-0.10.0.1
+- tasty-quickcheck-0.10
 - text-builder-0.5.1
 - vector-builder-0.3.4.1
