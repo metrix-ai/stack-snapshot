@@ -1,4 +1,4 @@
-resolver: lts-10.4
+resolver: lts-10.7
 name: metrix-snapshot
 packages:
 - attoparsec-data-1.0.3
