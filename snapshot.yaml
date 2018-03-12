@@ -24,7 +24,7 @@ packages:
 - optparse-applicative-simple-1.0.2
 - potoki-0.10.3
 - potoki-cereal-0.1.5
-- potoki-core-1.5
+- potoki-core-1.5.2
 - ptr-0.16.2
 - punycode-2.0
 - rebase-1.2.3
