@@ -1,4 +1,4 @@
-resolver: lts-10.7
+resolver: lts-11.0
 name: metrix-snapshot
 packages:
 - aeson-value-parser-0.12.4
