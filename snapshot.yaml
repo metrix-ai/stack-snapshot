@@ -23,7 +23,7 @@ packages:
 - monad-primitive-0.1
 - mwc-random-monad-0.7.3.1
 - optparse-applicative-simple-1.0.2
-- potoki-0.11.1
+- potoki-0.11.2
 - potoki-cereal-0.1.6
 - potoki-core-1.5.2
 - ptr-0.16.2
