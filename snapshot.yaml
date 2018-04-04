@@ -26,7 +26,7 @@ packages:
 - potoki-0.11.2
 - potoki-cereal-0.1.6
 - potoki-core-1.5.2
-- potoki-hasql-1.1.0.1
+- potoki-hasql-1.2
 - ptr-0.16.2
 - punycode-2.0
 - rebase-1.2.3
@@ -41,4 +41,4 @@ packages:
 - unagi-chan-0.4.1.0
 - url-decoders-0.2
 - vector-builder-0.3.4.1
-- vector-shuffling-1
+- vector-shuffling-1.1
