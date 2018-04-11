@@ -38,6 +38,7 @@ packages:
 - tasty-hunit-0.10.0.1
 - tasty-quickcheck-0.10
 - text-builder-0.5.1
+- timestamp-0.1.0.1
 - unagi-chan-0.4.1.0
 - url-decoders-0.2
 - vector-builder-0.3.4.1
