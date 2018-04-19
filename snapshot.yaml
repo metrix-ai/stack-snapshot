@@ -16,6 +16,7 @@ packages:
 - hasql-optparse-applicative-0.3
 - hasql-transaction-0.6
 - http-media-0.6.4
+- int-multimap-0.1.0.1
 - iri-0.3.4
 - json-bytes-builder-0.5.2
 - json-pointer-0.1.2.1
