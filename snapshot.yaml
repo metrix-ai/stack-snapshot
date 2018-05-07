@@ -29,7 +29,7 @@ packages:
 - potoki-0.11.3
 - potoki-cereal-0.1.6
 - potoki-core-1.5.2
-- potoki-hasql-1.2
+- potoki-hasql-1.3
 - ptr-0.16.2
 - punycode-2.0
 - rebase-1.2.3
