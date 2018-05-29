@@ -6,7 +6,7 @@ packages:
 - attoparsec-data-1.0.3
 - attoparsec-time-1
 - bug-1.0.1
-- deferred-folds-0.4.0.1
+- deferred-folds-0.4.1
 - either-5
 - eternity-0.1.2
 - eternity-timestamped-0.4
