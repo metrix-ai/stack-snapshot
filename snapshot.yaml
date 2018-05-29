@@ -1,7 +1,7 @@
 resolver: lts-11.11
 name: metrix-snapshot
 packages:
-- acquire-0.2
+- acquire-0.2.0.1
 - aeson-value-parser-0.12.4
 - attoparsec-data-1.0.3
 - attoparsec-time-1
