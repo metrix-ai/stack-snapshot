@@ -33,6 +33,7 @@ packages:
 - potoki-cereal-0.1.6
 - potoki-core-2.1
 - potoki-hasql-1.6
+- primitive-indexed-0.1.0.0
 - ptr-0.16.2
 - punycode-2.0
 - rebase-1.2.4
