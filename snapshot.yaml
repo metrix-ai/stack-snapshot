@@ -1,4 +1,4 @@
-resolver: lts-11.11
+resolver: lts-12.2
 name: metrix-snapshot
 packages:
 - acquire-0.2.0.1
