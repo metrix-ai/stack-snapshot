@@ -13,10 +13,10 @@ packages:
 - eternity-timestamped-0.4
 - expiring-containers-0.1.2
 - fast-tagsoup-1.0.14
-- foldl-1.3.7
+- foldl-1.4.2
 - fx-0.10.1
 - generic-random-1.1.0.2
-- hasql-1.3
+- hasql-1.3.0.3
 - hasql-optparse-applicative-0.3.0.3
 - hasql-pool-0.5
 - hasql-transaction-0.7
@@ -35,7 +35,8 @@ packages:
 - potoki-hasql-1.6
 - primitive-0.6.4.0
 - primitive-indexed-0.1.0.0
-- ptr-0.16.2
+- primitive-extras-0.5.1
+- ptr-0.16.5
 - punycode-2.0
 - rebase-1.2.4
 - rerebase-1.2.2
@@ -48,6 +49,6 @@ packages:
 - text-builder-0.5.1
 - timestamp-0.2
 - unagi-chan-0.4.1.0
-- url-decoders-0.2
+- url-decoders-0.2.1
 - vector-builder-0.3.4.1
 - vector-shuffling-1.1
