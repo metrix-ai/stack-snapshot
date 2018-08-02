@@ -6,6 +6,9 @@ packages:
 - attoparsec-data-1.0.3
 - attoparsec-time-1
 - bug-1.0.1
+- cereal-data-dword-0.1
+- cereal-uuid-0.1.1
+- cereal-unordered-containers-0.1
 - compound-types-0.1.4
 - deferred-folds-0.6.8
 - either-5
@@ -35,7 +38,7 @@ packages:
 - potoki-core-2.2.2.1
 - primitive-0.6.4.0
 - primitive-indexed-0.1.0.0
-- primitive-extras-0.6.1
+- primitive-extras-0.6.2
 - ptr-0.16.5
 - punycode-2.0
 - rebase-1.2.4
