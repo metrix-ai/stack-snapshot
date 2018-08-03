@@ -35,10 +35,10 @@ packages:
 - optparse-applicative-simple-1.0.3
 - potoki-2.0.2
 - potoki-cereal-0.3
-- potoki-core-2.2.2.1
+- potoki-core-2.2.3
 - primitive-0.6.4.0
 - primitive-indexed-0.1.0.0
-- primitive-extras-0.6.2
+- primitive-extras-0.6.2.1
 - ptr-0.16.5
 - punycode-2.0
 - rebase-1.2.4
@@ -55,5 +55,5 @@ packages:
 - timestamp-0.2
 - unagi-chan-0.4.1.0
 - url-decoders-0.2.1
-- vector-builder-0.3.5
+- vector-builder-0.3.6
 - vector-shuffling-1.1
