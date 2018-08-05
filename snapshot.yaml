@@ -11,7 +11,7 @@ packages:
 - cereal-uuid-0.1.1
 - cereal-unordered-containers-0.1
 - compound-types-0.1.4
-- deferred-folds-0.6.8
+- deferred-folds-0.6.11
 - either-5
 - eternity-0.1.2
 - eternity-timestamped-0.4
