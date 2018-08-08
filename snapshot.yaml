@@ -5,7 +5,7 @@ packages:
 - aeson-value-parser-0.12.4
 - attoparsec-data-1.0.3
 - attoparsec-time-1
-- ascii-string-1.0.0.1
+- ascii-string-1.0.1
 - bug-1.0.1
 - cereal-data-dword-0.1
 - cereal-uuid-0.1.1
