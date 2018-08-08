@@ -5,7 +5,7 @@ packages:
 - aeson-value-parser-0.12.4
 - attoparsec-data-1.0.3
 - attoparsec-time-1
-- ascii-string-1
+- ascii-string-1.0.0.1
 - bug-1.0.1
 - cereal-data-dword-0.1
 - cereal-uuid-0.1.1
@@ -37,7 +37,7 @@ packages:
 - mwc-random-monad-0.7.3.1
 - optparse-applicative-simple-1.0.3
 - potoki-2.0.3
-- potoki-cereal-0.3
+- potoki-cereal-0.3.0.1
 - potoki-core-2.2.5
 - primitive-0.6.4.0
 - primitive-indexed-0.1.0.0
