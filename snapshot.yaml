@@ -27,7 +27,7 @@ packages:
 - hasql-pool-0.5
 - hasql-transaction-0.7
 - http-media-0.7.1.2
-- indexation-0.4
+- indexation-0.4.1
 - int-multimap-0.3.1
 - iri-0.3.4
 - json-bytes-builder-0.5.2
