@@ -7,7 +7,7 @@ packages:
 - attoparsec-time-1
 - ascii-string-1.0.1
 - bug-1.0.1
-- cereal-data-dword-0.1
+- cereal-data-dword-0.1.1
 - cereal-uuid-0.1.1
 - cereal-unordered-containers-0.1
 - compound-types-0.1.4
