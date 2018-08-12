@@ -39,7 +39,7 @@ packages:
 - optparse-applicative-simple-1.0.3
 - potoki-2.0.3
 - potoki-cereal-0.3.0.1
-- potoki-core-2.2.5.3
+- potoki-core-2.2.5.4
 - primitive-0.6.4.0
 - primitive-indexed-0.1.0.0
 - primitive-extras-0.6.6
