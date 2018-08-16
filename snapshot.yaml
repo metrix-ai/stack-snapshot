@@ -42,7 +42,7 @@ packages:
 - potoki-core-2.2.6
 - primitive-0.6.4.0
 - primitive-indexed-0.1.0.0
-- primitive-extras-0.6.6
+- primitive-extras-0.6.7
 - ptr-0.16.6
 - punycode-2.0
 - rebase-1.2.4
