@@ -47,8 +47,8 @@ packages:
 - punycode-2.0
 - rebase-1.2.4
 - rerebase-1.2.2
-- stm-containers-1.0.1
-- stm-hamt-1.1.2
+- stm-containers-1.0.1.1
+- stm-hamt-1.1.2.1
 - strelka-2.0.2.1
 - strelka-core-0.3
 - strelka-wai-1.0.1.1
