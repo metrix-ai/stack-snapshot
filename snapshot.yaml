@@ -56,7 +56,7 @@ packages:
 - tasty-1.0.1
 - tasty-hunit-0.10.0.1
 - tasty-quickcheck-0.10
-- text-builder-0.5.4
+- text-builder-0.5.4.2
 - timestamp-0.2
 - unagi-chan-0.4.1.0
 - url-decoders-0.2.1
