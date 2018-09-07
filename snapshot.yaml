@@ -62,5 +62,6 @@ packages:
 - timestamp-0.2
 - unagi-chan-0.4.1.0
 - url-decoders-0.2.1
+- vector-algorithms-0.7.0.4
 - vector-builder-0.3.6
 - vector-shuffling-1.1
