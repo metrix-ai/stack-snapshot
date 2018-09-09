@@ -38,9 +38,9 @@ packages:
 - mwc-random-monad-0.7.3.1
 - optima-0.3.0.2
 - optparse-applicative-simple-1.0.3
-- potoki-2.0.12
+- potoki-2.0.13
 - potoki-cereal-0.3.0.1
-- potoki-core-2.2.13.1
+- potoki-core-2.2.14
 - primitive-0.6.4.0
 - primitive-indexed-0.1.0.0
 - primitive-extras-0.7.0.2
