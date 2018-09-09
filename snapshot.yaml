@@ -6,6 +6,7 @@ packages:
 - attoparsec-data-1.0.3
 - attoparsec-time-1
 - ascii-string-1.0.1.3
+- bitvec-0.1.0.2
 - bug-1.0.1
 - cereal-data-dword-0.1.1
 - cereal-uuid-0.1.1
