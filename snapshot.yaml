@@ -49,7 +49,7 @@ packages:
 - rebase-1.2.4
 - rerebase-1.2.2
 - scanner-0.3
-- {git: "https://github.com/haskell/stm", commit: "4f63bbc"}
+- stm-2.4.5.1
 - stm-containers-1.1.0.2
 - stm-hamt-1.2.0.2
 - strelka-2.0.2.1
