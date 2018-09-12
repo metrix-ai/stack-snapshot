@@ -13,7 +13,7 @@ packages:
 - cereal-unordered-containers-0.1
 - compound-types-0.1.4
 - deferred-folds-0.9.7
-- {git: "https://github.com/metrix-ai/dense-int-set", commit: "0.1.3"}
+- {git: "https://github.com/metrix-ai/dense-int-set", commit: "0.1.4"}
 - edges-0.11.0.3
 - either-5
 - eternity-0.1.3
