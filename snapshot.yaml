@@ -22,7 +22,6 @@ packages:
 - fast-tagsoup-1.0.14
 - focus-1.0.1.2
 - foldl-1.4.2
-- {git: "https://github.com/nikita-volkov/formatting", commit: "0d7dc033faa3ef1dc0751f3dad0ce7f8676e2321"}
 - fx-0.10.1
 - generic-random-1.2.0.0
 - hasql-1.3.0.3
