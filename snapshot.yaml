@@ -29,7 +29,7 @@ packages:
 - hasql-pool-0.5
 - hasql-transaction-0.7
 - http-media-0.7.1.2
-- {git: "https://github.com/metrix-ai/indexation", commit: "0.6.1"}
+- {git: "https://github.com/metrix-ai/indexation", commit: "0.6.2"}
 - int-multimap-0.3.1
 - iri-0.3.4
 - json-bytes-builder-0.5.2
