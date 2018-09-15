@@ -41,7 +41,7 @@ packages:
 - optparse-applicative-simple-1.0.3
 - {git: "https://github.com/metrix-ai/potoki", commit: "2.1"}
 - {git: "https://github.com/metrix-ai/potoki-cereal", commit: "0.3.0.2"}
-- {git: "https://github.com/metrix-ai/potoki-core", commit: "2.3.0.1"}
+- {git: "https://github.com/metrix-ai/potoki-core", commit: "2.3.0.2"}
 - primitive-0.6.4.0
 - primitive-indexed-0.1.0.0
 - {git: "https://github.com/metrix-ai/primitive-extras", commit: "0.7.1"}
