@@ -50,7 +50,7 @@ packages:
 - rebase-1.2.4
 - rerebase-1.2.2
 - scanner-0.3
-- {git: "https://github.com/haskell/stm", commit: "eeed986"}
+- {git: "https://github.com/metrix-ai/stm", commit: "2636e45"}
 - stm-containers-1.1.0.2
 - stm-hamt-1.2.0.2
 - strelka-2.0.2.1
