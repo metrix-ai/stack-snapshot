@@ -66,5 +66,5 @@ packages:
 - url-decoders-0.2.1
 - vector-algorithms-0.7.0.4
 - vector-builder-0.3.6
-- vector-extras-0.2
+- {git: "https://github.com/metrix-ai/vector-extras", commit: "0.2.1"}
 - vector-shuffling-1.1
