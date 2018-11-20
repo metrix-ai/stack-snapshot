@@ -6,12 +6,14 @@ packages:
 - attoparsec-data-1.0.3
 - attoparsec-time-1
 - ascii-string-1.0.1.3
+- async-2.2.1
 - bitvec-0.1.0.2
 - bug-1.0.1
 - cereal-data-dword-0.1.1
 - cereal-uuid-0.1.1
 - cereal-unordered-containers-0.1
 - compound-types-0.1.4
+- concurrent-output-1.10.9
 - {git: "https://github.com/metrix-ai/deferred-folds", commit: "0.9.9"}
 - {git: "https://github.com/metrix-ai/dense-int-set", commit: "0.3"}
 - {git: "https://github.com/metrix-ai/edges", commit: "0.12.0.1"}
@@ -28,6 +30,7 @@ packages:
 - hasql-optparse-applicative-0.3.0.3
 - hasql-pool-0.5
 - hasql-transaction-0.7
+- hedgehog-0.6.1
 - http-media-0.7.1.2
 - {git: "https://github.com/metrix-ai/indexation", commit: "0.8.0.1"}
 - int-multimap-0.3.1
