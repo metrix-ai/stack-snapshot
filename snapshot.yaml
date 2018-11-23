@@ -20,7 +20,7 @@ packages:
 - either-5
 - eternity-0.1.3
 - eternity-timestamped-0.4.1
-- expiring-containers-0.2
+- expiring-containers-0.2.1
 - fast-tagsoup-1.0.14
 - focus-1.0.1.2
 - foldl-1.4.2
