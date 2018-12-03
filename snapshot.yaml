@@ -16,6 +16,7 @@ packages:
 - concurrent-output-1.10.9
 - {git: "https://github.com/metrix-ai/deferred-folds", commit: "0.9.9"}
 - {git: "https://github.com/metrix-ai/dense-int-set", commit: "0.3"}
+- {git: "https://github.com/nikita-volkov/deque", commit: "0.2.5"}
 - {git: "https://github.com/metrix-ai/edges", commit: "0.12.0.1"}
 - either-5
 - eternity-0.1.3
