@@ -16,8 +16,6 @@ packages:
 - {git: "https://github.com/metrix-ai/deferred-folds", commit: "0.9.10"}
 - {git: "https://github.com/metrix-ai/dense-int-set", commit: "0.3"}
 - {git: "https://github.com/nikita-volkov/deque", commit: "0.2.7"}
-- {git: "https://github.com/haskell-distributed/distributed-static", commit: "b759192"}
-- {git: "https://github.com/haskell-distributed/distributed-process", commit: "660d554"}
 - {git: "https://github.com/metrix-ai/edges", commit: "0.12.0.1"}
 - either-5
 - ekg-0.4.0.15
@@ -37,7 +35,6 @@ packages:
 - json-pointer-aeson-0.1.2
 - monad-primitive-0.1
 - mwc-random-monad-0.7.3.1
-- {git: "https://github.com/haskell-distributed/network-transport-tcp", commit: "d87d6f5"}
 - optima-0.3.0.2
 - optparse-applicative-simple-1.0.3
 - {git: "https://github.com/metrix-ai/potoki", commit: "2.1.3"}
