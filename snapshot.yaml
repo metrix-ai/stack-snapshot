@@ -25,14 +25,13 @@ packages:
 - expiring-containers-0.2.2.1
 - fast-tagsoup-1.0.14
 - fx-0.10.1
-- {git: "https://github.com/sannsyn/json-pointer", commit: "0.1.2.2"}
 - hedgehog-0.6.1
 - html-charset-0.1.0
 - {git: "https://github.com/metrix-ai/indexation", commit: "0.8.0.1"}
 - int-multimap-0.3.1
 - {git: "https://github.com/nikita-volkov/iri", commit: "0.3.4.1"}
 - json-bytes-builder-0.5.2
-- json-pointer-0.1.2.1
+- {git: "https://github.com/sannsyn/json-pointer", commit: "0.1.2.2"}
 - json-pointer-aeson-0.1.2
 - monad-primitive-0.1
 - mwc-random-monad-0.7.3.1
