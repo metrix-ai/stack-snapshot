@@ -25,6 +25,7 @@ packages:
 - expiring-containers-0.2.2.1
 - fast-tagsoup-1.0.14
 - fx-0.10.1
+- {git: "https://github.com/sannsyn/json-pointer", commit: "0.1.2.2"}
 - hedgehog-0.6.1
 - html-charset-0.1.0
 - {git: "https://github.com/metrix-ai/indexation", commit: "0.8.0.1"}
