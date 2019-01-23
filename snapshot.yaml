@@ -2,7 +2,7 @@ resolver: lts-13.3
 name: metrix-snapshot
 packages:
 - acquire-0.2.0.1
-- aeson-value-parser-0.12.4
+- aeson-value-parser-0.13
 - attoparsec-data-1.0.3
 - attoparsec-time-1
 - ascii-string-1.0.1.3
