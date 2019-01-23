@@ -1,6 +1,17 @@
 resolver: lts-13.3
 name: metrix-snapshot
 packages:
+# A workaround for a bug in Amazonka.
+# The associated repository directories of all Amazonka packages
+# that we use should be listed under the "subdirs" key.
+# For details see
+# https://github.com/brendanhay/amazonka/issues/466
+- git: https://github.com/brendanhay/amazonka
+  commit: c9d8a62118b2269fb54b1e89c4e92106e8243050
+  subdirs:
+  - amazonka
+  - amazonka-s3
+  - core
 - acquire-0.2.0.1
 - aeson-value-parser-0.13
 - attoparsec-data-1.0.3
