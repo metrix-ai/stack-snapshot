@@ -13,7 +13,7 @@ packages:
   - amazonka-s3
   - core
 - acquire-0.2.0.1
-- aeson-value-parser-0.14
+- aeson-value-parser-0.14.1
 - attoparsec-data-1.0.3
 - attoparsec-time-1
 - ascii-string-1.0.1.3
