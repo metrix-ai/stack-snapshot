@@ -40,7 +40,7 @@ packages:
 - html-charset-0.1.0
 - {git: "https://github.com/metrix-ai/indexation", commit: "0.8.0.1"}
 - int-multimap-0.3.1
-- {git: "https://github.com/nikita-volkov/iri", commit: "0.3.4.1"}
+- {git: "https://github.com/nikita-volkov/iri", commit: "0.4"}
 - json-bytes-builder-0.5.2
 - {git: "https://github.com/sannsyn/json-pointer", commit: "0.1.2.2"}
 - json-pointer-aeson-0.1.2
