@@ -23,6 +23,7 @@ packages:
 - cereal-uuid-0.1.1
 - cereal-unordered-containers-0.1
 - charsetdetect-1.1.0.2
+- char-qq-0.1
 - compound-types-0.1.4
 - {git: "https://github.com/metrix-ai/deferred-folds", commit: "0.9.10"}
 - {git: "https://github.com/metrix-ai/dense-int-set", commit: "0.3"}
