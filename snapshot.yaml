@@ -67,5 +67,5 @@ packages:
 - timestamp-0.2
 - unagi-chan-0.4.1.0
 - url-decoders-0.2.1
-- {git: "https://github.com/metrix-ai/vector-extras", commit: "0.2.1"}
+- {git: "https://github.com/metrix-ai/vector-extras", commit: "0.2.1.1"}
 - vector-shuffling-1.1
