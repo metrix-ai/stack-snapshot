@@ -61,7 +61,7 @@ packages:
 - slave-thread-1.0.3
 - stm-containers-1.1.0.2
 - stm-hamt-1.2.0.2
-- strelka-2.0.4
+- strelka-2.0.5
 - strelka-core-0.3
 - strelka-wai-1.0.1.1
 - text-builder-0.6.5
