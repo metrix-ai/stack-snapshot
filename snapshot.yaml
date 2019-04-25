@@ -14,7 +14,7 @@ packages:
   - core
 - acquire-0.2.0.1
 - aeson-value-parser-0.16
-- attoparsec-data-1.0.4
+- {git: "https://github.com/nikita-volkov/attoparsec-data", commit: "1.0.4.1"}
 - attoparsec-time-1
 - ascii-string-1.0.1.3
 - bitvec-0.1.0.2
