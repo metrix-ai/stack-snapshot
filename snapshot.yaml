@@ -32,9 +32,6 @@ packages:
 - expiring-containers-0.2.2.1
 - fast-tagsoup-1.0.14
 - fx-0.10.1
-- hasql-1.4
-- hasql-pool-0.5.1
-- hasql-transaction-0.7.2
 - html-charset-0.1.0
 - {git: "https://github.com/metrix-ai/indexation", commit: "0.8.0.1"}
 - int-multimap-0.3.1
