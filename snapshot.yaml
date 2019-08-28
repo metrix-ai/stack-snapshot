@@ -64,7 +64,7 @@ packages:
 - strelka-2.0.5
 - strelka-core-0.3.0.1
 - strelka-wai-1.0.1.1
-- text-builder-0.6.5
+- text-builder-0.6.5.1
 - timestamp-0.2
 - unagi-chan-0.4.1.0
 - url-decoders-0.2.1
