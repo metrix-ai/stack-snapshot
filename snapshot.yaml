@@ -1,4 +1,4 @@
-resolver: lts-13.3
+resolver: lts-14.3
 name: metrix-snapshot
 packages:
 # A workaround for a bug in Amazonka.
