@@ -1,17 +1,6 @@
 resolver: lts-14.3
 name: metrix-snapshot
 packages:
-# A workaround for a bug in Amazonka.
-# The associated repository directories of all Amazonka packages
-# that we use should be listed under the "subdirs" key.
-# For details see
-# https://github.com/brendanhay/amazonka/issues/466
-- git: https://github.com/brendanhay/amazonka
-  commit: c9d8a62118b2269fb54b1e89c4e92106e8243050
-  subdirs:
-  - amazonka
-  - amazonka-s3
-  - core
 - acquire-0.2.0.1
 - aeson-value-parser-0.16
 - attoparsec-data-1.0.4.1
@@ -26,14 +15,12 @@ packages:
 - char-qq-0.1.1.1
 - compound-types-0.1.4
 - dense-int-set-0.3
-- {git: "https://github.com/metrix-ai/edges", commit: "0.12.0.1"}
 - eternity-0.1.3
 - eternity-timestamped-0.4.1
 - expiring-containers-0.2.2.1
 - fast-tagsoup-1.0.14
 - fx-0.10.1
 - html-charset-0.1.0
-- {git: "https://github.com/metrix-ai/indexation", commit: "0.8.0.1"}
 - int-multimap-0.3.1
 - iri-0.4
 - json-bytes-builder-0.5.2
