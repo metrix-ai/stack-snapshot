@@ -1,7 +1,7 @@
 resolver: lts-14.3
 name: metrix-snapshot
 packages:
-- acquire-0.3
+- acquire-0.3.1
 - aeson-value-parser-0.16
 - attoparsec-data-1.0.4.1
 - attoparsec-time-1
