@@ -20,6 +20,7 @@ packages:
 - expiring-containers-0.2.2.1
 - fast-tagsoup-1.0.14
 - fx-0.10.1
+- {git: "https://github.com/nikita-volkov/hasql-transaction", commit: "dca1d7788482c163aa6c7c6c71786ca5626cae86"}
 - html-charset-0.1.0
 - int-multimap-0.3.1
 - iri-0.4
