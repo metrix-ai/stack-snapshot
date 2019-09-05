@@ -8,6 +8,7 @@ packages:
 - ascii-string-1.0.1.3
 - bitvec-0.1.0.2
 - bug-1.0.1
+- {git: "https://github.com/nikita-volkov/canapi", commit: "cf4acbb21278231f5e9e5af1246d599e246e46ba"}
 - cereal-data-dword-0.1.1
 - cereal-uuid-0.1.1
 - cereal-unordered-containers-0.1
@@ -28,6 +29,7 @@ packages:
 - json-pointer-0.1.2.2
 - json-pointer-aeson-0.1.2
 - monad-primitive-0.1
+- {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
 - mwc-random-monad-0.7.3.1
 - optima-0.4
 - optparse-applicative-0.15.0.0
