@@ -28,6 +28,7 @@ packages:
 - json-bytes-builder-0.5.2
 - json-pointer-0.1.2.2
 - json-pointer-aeson-0.1.2
+- list-t-1.0.4
 - monad-primitive-0.1
 - {git: "https://github.com/nikita-volkov/most.hs", commit: "acfb227620f9b39922af49bbd02354c293c2fa9e"}
 - mwc-random-monad-0.7.3.1
