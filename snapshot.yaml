@@ -44,6 +44,7 @@ packages:
 - strelka-2.0.5
 - strelka-core-0.3.0.1
 - strelka-wai-1.0.1.1
+- text-1.2.4.0
 - timestamp-0.2
 - url-decoders-0.2.1
 - vector-extras-0.2.1.1
