@@ -19,7 +19,7 @@ packages:
 - eternity-timestamped-0.4.1
 - expiring-containers-0.2.2.1
 - fast-tagsoup-1.0.14
-- {git: "https://github.com/Gabriel439/Haskell-Foldl-Library", commit: "957c74e569b57614ca7d7f389d2cca57d389850e"}
+- {git: "https://github.com/nikita-volkov/Haskell-Foldl-Library", commit: "957c74e569b57614ca7d7f389d2cca57d389850e"}
 - {git: "https://github.com/nikita-volkov/hasql-transaction", commit: "dca1d7788482c163aa6c7c6c71786ca5626cae86"}
 - html-charset-0.1.0
 - int-multimap-0.3.1
